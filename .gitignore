@@ -1,3 +1,4 @@
 .env
 composer.lock
 app/settings.php
+vendor
